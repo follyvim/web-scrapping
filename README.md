@@ -1,2 +1,2 @@
 # web-scrapping
-web scraping of idioms and saving into csv files
+web scraping of car's name and saving into csv files
